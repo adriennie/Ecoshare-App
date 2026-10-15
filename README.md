@@ -1,11 +1,11 @@
-# ReVive
+# EcoShare
 
 A full-stack platform for community-driven sharing, trading, and credit-based economy, built with React Native (Expo), Supabase, Clerk authentication, and Bun for backend services.
 
 ---
 
 ## 🚀 Project Overview
-ReVive is a mobile-first application that enables users to:
+EcoShare is a mobile-first application that enables users to:
 - Sign up and log in with email/password or Google (OAuth) via Clerk
 - List items (food or non-food) for sale or free
 - Upload and display product images using Supabase Storage
