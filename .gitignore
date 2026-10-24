@@ -1,1 +1,11 @@
 .aider*
+node_modules/
+.env
+.DS_Store
+.claude/
+supabase/combined_schema.sql
+expo-qr.png
+
+# Finder/iCloud duplicate copies ("file 2.tsx")
+* [0-9].*
+brag-output*/work/
