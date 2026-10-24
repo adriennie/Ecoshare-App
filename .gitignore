@@ -9,3 +9,6 @@ expo-qr.png
 # Finder/iCloud duplicate copies ("file 2.tsx")
 * [0-9].*
 brag-output*/work/
+
+# Hyperframes check/snapshot artifacts
+brag-output*/composition/.hyperframes/
